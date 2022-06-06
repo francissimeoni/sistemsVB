@@ -1,0 +1,35 @@
+D:\Sistema Clinica\Clinica\Clinica\bin\Debug\Clinica.exe.config
+D:\Sistema Clinica\Clinica\Clinica\bin\Debug\Clinica.exe
+D:\Sistema Clinica\Clinica\Clinica\bin\Debug\Clinica.pdb
+D:\Sistema Clinica\Clinica\Clinica\bin\Debug\Clinica.xml
+D:\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.Login.resources
+D:\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.main.resources
+D:\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.Resources.resources
+D:\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.vbproj.GenerateResource.Cache
+D:\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.exe
+D:\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.xml
+D:\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.pdb
+D:\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.NuevoPaciente.resources
+D:\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.BuscarModificarPacientes.resources
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\bin\Debug\Clinica.exe.config
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.exe
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.xml
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.pdb
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\bin\Debug\Clinica.exe
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\bin\Debug\Clinica.pdb
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\bin\Debug\Clinica.xml
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.BuscarModificarPacientes.resources
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.Login.resources
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.main.resources
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.Resources.resources
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.NuevoPaciente.resources
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.vbproj.GenerateResource.Cache
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.ModificarPaciente.resources
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.NuevoUsuario.resources
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.BuscarModificarUsuarios.resources
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.ModificarUsuario.resources
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.RegistrarIngresos.resources
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.Operaciones.resources
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.vbprojResolveAssemblyReference.cache
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.reporteIngresosPorFecha.resources
+D:\Sistema Clinica\Sistema Clinica\Clinica\Clinica\obj\Debug\Clinica.reporteclientes.resources
